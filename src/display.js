@@ -11,6 +11,7 @@ class Display extends Component {
         this.handleChange = this.handleChange.bind(this);
         this.processData = this.processData.bind(this);
         this.randomImage = this.randomImage.bind(this);
+        this.processData('memes');
     }
 
     handleChange(event){
