@@ -1,0 +1,8 @@
+html, body, #root,.App {
+    height: 100vh;
+}
+
+
+body {
+    background-color: #1B3B6F;
+}
